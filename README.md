@@ -9,10 +9,17 @@ nebulai's depin computing services
 
 ---
 
-## 🚀 Overview  
-**OpenCompute** is Nebulai’s decentralized computing platform, designed to power scalable, distributed workloads across a permissionless network of contributors.
+## 🚀 Overview
+**OpenCompute** is Nebulai’s next-generation decentralized computing network, engineered to deliver elastic, distributed processing power with zero infrastructure overhead.
 
-We are building the foundation for a truly decentralized compute layer — efficient, transparent, and available to everyone.
+Unlike traditional systems, OpenCompute introduces a truly plug-and-play architecture:
+
+**Workers** can contribute computing power instantly — simply by opening a browser, no installation required.
+
+**Users** can tap into global compute resources through a lightweight Python SDK, without managing any backend.
+
+We're redefining the boundaries of accessible computing — frictionless, serverless, and permissionless.
+This is not just a platform — it's the foundation of a new computational paradigm, built for scale, built for everyone.
 
 ---
 ## 📢 Notice

@@ -36,5 +36,5 @@ Explore the repositories:
 
 > ⚠️ Please note: OpenCompute remains under active development.  
 > The current version reflects an MVP and may differ from future stable releases.
-
+ 
 ---

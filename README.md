@@ -4,7 +4,7 @@
   [Website](https://nebulai.network) <br> <br>
 </div>
 
-## Nebulai Open Compute
+## Nebulai OpenCompute
 nebulai's depin computing services
 
 ---
